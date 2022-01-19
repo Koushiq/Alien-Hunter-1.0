@@ -9,3 +9,4 @@ You must have mysql server running and make a database named "alien hunter 1.0" 
 you'll also have to do the following 
 make a table named playersinfo into the following database
 make four columns named " username,password,maxscore,killcount,maxlevel " where username being the primary key 
+asdasdasdasdas
